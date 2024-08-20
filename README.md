@@ -1,2 +1,2 @@
 # Pizza_sales_analysis
-In this project, I analyzed pizza sales data to identify key trends and areas for improvement. 
+In this project, I analyzed pizza sales data to identify key trends and areas for improvement. Total revenue was $817.86K with an average order value of $38.31. Peak order times were particularly on Thursdays and Fridays and the highest sales months were May and July. Classic pizzas and large sizes were most popular. The Thai Chicken and Barbecue Chicken Pizzas generated the most revenue, while the Brie Carre Pizza performed poorly. Recommendations include optimizing inventory for weekends, promoting popular items, introducing new variants of best-sellers, and adjusting or removing low-performing pizzas to boost sales and customer satisfaction.
